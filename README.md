@@ -30,6 +30,6 @@ Wishing you a wonderful day! 😁
 
 ![Koopros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koopro&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Koopro&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Koopro&theme=tokyonight&border_radius=4.5)
 
 #
