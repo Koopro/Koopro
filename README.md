@@ -2,10 +2,9 @@
 
 **`Student`**
 
-This is my Github Profile nothing special and still in progress to make this that what I want.
-I hope you finding that what you are searching for. 
+Welcome to my GitHub profile! While it may not be anything extraordinary just yet, I'm continuously working on improving it to match my vision. I hope you discover exactly what you're looking for here.
 
-Have a nice day  😁
+Wishing you a wonderful day! 😁
 
 ---
 
