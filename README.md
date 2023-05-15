@@ -2,6 +2,10 @@
 
 **`Student`**
 
+This is my Github Profile nothing special and still in progress to make this that what I want.
+I hope you finding that what you are searching for. 
+
+Have a nice day  😁
 ---
 
 ### 🧰 Languages and Tools
